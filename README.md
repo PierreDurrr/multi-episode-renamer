@@ -5,9 +5,11 @@ Simple multi episode renamer batch.
 
 Have you ever been frustrated when loading a series into Sonarr or Plex, only to realize that episodes are missing because they are named, for example, 
 
-The Garfield Show.**S01E01**.TRUEFRENCH.1080p.WEB-DL.H264-FTMVHD.mkv<br />
+> The Garfield Show.**S01E01**.TRUEFRENCH.1080p.WEB-DL.H264-FTMVHD.mkv<br />
+
 instead of<br />
-The Garfield Show.**S01E01E02**.TRUEFRENCH.1080p.WEB-DL.H264-FTMVHD.mkv?<br />
+
+> The Garfield Show.**S01E01E02**.TRUEFRENCH.1080p.WEB-DL.H264-FTMVHD.mkv?<br />
 
 Well, there you go.
 This script is here to fix that.
