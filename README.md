@@ -13,3 +13,4 @@ Well, there you go.
 This script is here to fix that.
 
 Just give it how many episodes you want (from 2 to 6) and fire the magic.
+You can then use something like this to show them correctly in plex : https://github.com/blacktwin/JBOPS/blob/4580ca0bc686d5478225d10368e6e1e6af980c2c/utility/merge_multiepisodes.py
